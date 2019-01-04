@@ -2,7 +2,7 @@
 Simple Game of Life realisation on Python. 
 
 You may play with interactive playground [here](https://bitstorm.org/gameoflife/).
-More about Game of Life in [this](http://www.math.com/students/wonders/life/life.html) astonishing article). 
+More about Game of Life in [this](http://www.math.com/students/wonders/life/life.html) astonishing article. 
 
 ## Usage
 
